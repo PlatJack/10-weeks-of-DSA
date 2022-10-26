@@ -1,1 +1,1 @@
-# 10-weeks-of-DSA
+# 10 weeks of DSA
