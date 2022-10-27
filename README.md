@@ -1,6 +1,7 @@
 # 10 weeks of DSA
 
 A DSA Learning program launched by Return_0, the coding club of IIIT Dharwad in collaboration with CodeChef. The program will help student to strengthen their knowledge about DSA concepts.
+
 ![Return_0 10 Week DSA Program](https://user-images.githubusercontent.com/99034389/198373525-eb0289fd-7ec7-4b0e-96e1-5ec07acbb466.png)
 
 ### Topics to be covered
@@ -18,5 +19,3 @@ A DSA Learning program launched by Return_0, the coding club of IIIT Dharwad in 
 
 ### Repositary Goals:
 * Maintain code base for practice problems, assignment problems and learning resources for the program
-* [Resources](https://docs.google.com/document/d/1StXz0yuJXLOb6JCFCC4Mlhqh0vR26CecGLQOqZcB_-s/edit?usp=sharing)
-
