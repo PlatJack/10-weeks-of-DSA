@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/longest-common-prefix/
+
 class Solution:
     def longestCommonPrefix(self, strs: list[str]) -> str:
         res = []
@@ -7,3 +9,6 @@ class Solution:
             else:
                 break
         return ''.join(res)
+
+# Time Complexity O(n)
+# Space Complexity O(n)

@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
         prev, j = nums[0], 1
@@ -10,3 +12,6 @@ class Solution:
                 j += 1
                 prev = nums[i]
         return k
+
+# Time Complexity O(n)
+# Space Complexity O(1)

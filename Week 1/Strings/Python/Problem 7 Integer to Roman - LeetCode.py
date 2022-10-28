@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/integer-to-roman/
+
 class Solution:
     def intToRoman(self, num: int) -> str:
         hun = ['', 'C', 'CC', 'CCC', 'CD', 'D', 'DC', 'DCC', 'DCCC', 'CM']
@@ -10,3 +12,6 @@ class Solution:
 
         ans = 'M' * th + hun[hu] + ten[te] + one[on]
         return ans
+
+# Time Complexity O(1)
+# Space Complexity O(n)

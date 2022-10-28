@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
 import math
 
 
@@ -10,3 +12,6 @@ class Solution:
                 lp[i] = min(lp[i], p - mpro[i - 1])
                 mpro[i] = max(mpro[i], p - lp[i])
         return mpro[-1]
+
+# Time Complexity O(n * k)
+# Space Complexity O(k ^ 2)

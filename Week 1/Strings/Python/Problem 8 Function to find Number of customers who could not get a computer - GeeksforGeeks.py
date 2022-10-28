@@ -1,3 +1,5 @@
+# https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/
+
 from collections import defaultdict
 
 
@@ -20,3 +22,6 @@ class Solution:
                     occ -= 1
                 d[i] = 0
         return ans
+
+# Time Complexity O(n)
+# Space Complexity O(n)
