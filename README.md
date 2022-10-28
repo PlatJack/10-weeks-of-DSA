@@ -6,16 +6,17 @@ A DSA Learning program launched by Return_0, the coding club of IIIT Dharwad in 
 
 ### Topics to be covered
 
-* Week 1: Mathematics, Time complexity, Arrays, Strings, 
-* Week 2: Searching and sorting
-* Week 3: Data Structures (Linked Lists, Stack, Queue)
-* Week 4: Backtracking
-* Week 5: Generic Tree, Binary Trees, Binary Search Tree
-* Week 6: Heaps, Graph
-* Week 7: BFS, DFS, Topological sort
-* Week 8: Shortest Path Algorithms, Minimum Spanning Tree
-* Week 9: Introduction to Greedy Algorithms, Dynamic Programming
-* Week 10: Dynamic Programming
+- Week 1: Mathematics, Time complexity, Arrays, Strings,
+- Week 2: Searching and sorting
+- Week 3: Data Structures (Linked Lists, Stack, Queue)
+- Week 4: Backtracking
+- Week 5: Generic Tree, Binary Trees, Binary Search Tree
+- Week 6: Heaps, Graph
+- Week 7: BFS, DFS, Topological sort
+- Week 8: Shortest Path Algorithms, Minimum Spanning Tree
+- Week 9: Introduction to Greedy Algorithms, Dynamic Programming
+- Week 10: Dynamic Programming
 
-### Repositary Goals:
-* Maintain code base for practice problems, assignment problems and learning resources for the program
+### Repository Goals
+
+- Maintain code base for practice problems, assignment problems and learning resources for the program
