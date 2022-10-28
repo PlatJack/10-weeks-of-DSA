@@ -6,7 +6,7 @@ using namespace std;
 // Only applicable to sorted array
 int lastOccurrence(vector<int> nums, int target)
 {
-    int low = 0, high = nums.size();
+    int low = 0, high = nums.size() - 1;
     int ans = -1;
     while (low <= high)
     {

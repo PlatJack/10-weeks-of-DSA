@@ -6,7 +6,7 @@ using namespace std;
 // Only applicable to sorted array
 int binarySearch(vector<int> nums, int target)
 {
-    int low = 0, high = nums.size();
+    int low = 0, high = nums.size() - 1;
     while (low <= high)
     {
         // calculating mid like this and
