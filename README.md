@@ -2,7 +2,7 @@
 
 A DSA Learning program launched by Return_0, the coding club of IIIT Dharwad in collaboration with CodeChef. The program will help students to strengthen their knowledge about DSA concepts.
 
-![Return_0 10 Week DSA Program](https://user-images.githubusercontent.com/99034389/198373525-eb0289fd-7ec7-4b0e-96e1-5ec07acbb466.png)
+![CODE CHEF X RETURN_0](https://user-images.githubusercontent.com/116636982/198678241-9c71219f-e9cc-4b18-965e-e2b18b7a34e5.jpg)
 
 ### Topics to be covered
 
