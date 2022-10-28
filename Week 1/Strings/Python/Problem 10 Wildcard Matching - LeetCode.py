@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/wildcard-matching/
+
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         ls, lp = len(s), len(p)
@@ -17,3 +19,6 @@ class Solution:
                     dp[i][j] = dp[i][j - 1] or dp[i - 1][j]
 
         return dp[-1][-1]
+
+# Time Complexity O(n ^ 2)
+# Space Complexity O(n ^ 2)

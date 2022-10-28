@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+
 class Solution:
     def findLUSlength(self, strs: list[str]) -> int:
         def isSub(x, y):
@@ -21,3 +23,6 @@ class Solution:
                 return len(strs[i])
 
         return -1
+
+# Time Complexity O(n ^ 2)
+# Space Complexity O(1)

@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/maximum-gap/
+
 import collections
 
 
@@ -18,3 +20,6 @@ class Solution:
         poss = [[min(d[i]), max(d[i])] for i in range(n) if d[i]]
 
         return max(x[0] - y[1] for x, y in zip(poss[1:], poss))
+
+# Time Complexity O(nlogn)
+# Space Complexity O(n ^ 2)

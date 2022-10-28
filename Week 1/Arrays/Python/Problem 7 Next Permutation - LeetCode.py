@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/next-permutation/
+
 class Solution:
     def nextPermutation(self, nums: list[int]) -> None:
         """
@@ -13,3 +15,6 @@ class Solution:
                         nums[j], nums[k] = nums[k], nums[j]
                         return nums
         return nums.reverse()
+
+# Time Complexity O(n ^ 2)
+# Space Complexity O(n)

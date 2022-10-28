@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/1746/B
+
 class Solution:
     def solve():
         for _ in range(int(input())):
@@ -20,3 +22,6 @@ class Solution:
                     i += 1
                     j -= 1
             print(ans)
+
+# Time Complexity O(n ^ 2)
+# Space Complexity O(1)

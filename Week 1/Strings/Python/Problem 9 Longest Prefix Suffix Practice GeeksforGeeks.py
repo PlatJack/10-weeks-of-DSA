@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1
+
 class Solution:
     def lps(self, s):
         n = len(s)
@@ -7,3 +9,6 @@ class Solution:
             if (prefix == suffix):
                 return res
         return 0
+
+# Time Complexity O(n)
+# Space Complexity O(n)

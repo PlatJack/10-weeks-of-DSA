@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1?page=2&difficulty[]=1&category[]=Arrays&sortBy=submissions
+
 class Solution:
     def minSwap(arr, n, k):
         winsize = 0
@@ -21,3 +23,6 @@ class Solution:
             ans = min(ans, cnt)
 
         return ans
+
+# Time Complexity O(n)
+# Space Complexity O(n)

@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/valid-palindrome/
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         temp = ''
@@ -7,3 +9,6 @@ class Solution:
             if i.isdigit():
                 temp += i
         return temp == temp[::-1]
+
+# Time Complexity O(n)
+# Space Complexity O(n)
