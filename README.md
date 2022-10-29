@@ -19,4 +19,4 @@ A DSA Learning program launched by Return_0, the coding club of IIIT Dharwad in 
 
 ### Repository Goals
 
-- Maintain code base for practice problems, assignment problems and learning resources for the program
+- Maintain code base for practice problems, assignment problems and learning resources for the programs
